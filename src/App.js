@@ -18,7 +18,7 @@ function App() {
       <Container style={{'paddingTop':'3rem'}}>
         <h2>Get in Contact</h2>
         <p>I Believe we can achieve great thhings togeether. Please send me a message in LinkedIn and add me on GitHub!</p>
-        <p>Im a </p>
+        <p>I'm passionate about technology and always looking forward to improve the life of everyone around me, even if it is just one bit.</p>
         <AnimatedCity/>
       </Container>
       <Footer />
