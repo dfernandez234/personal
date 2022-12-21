@@ -1,0 +1,48 @@
+.hero .hero-content {
+    position: ab;
+    z-index: 1;
+  }
+  
+.hero h1 {
+    font-family: inherit;
+    color: #fff;
+    font-size: 2.6em;
+    margin-bottom: 0.6em;
+    line-height: 1.3em;
+  }
+  
+.hero h1 span {
+    color: #FFD500;
+  }
+  
+.hero p {
+    font-size: 1em;
+    margin-bottom: 2em;
+    color: #fff;
+  }
+  
+.hero .signup-btn {
+    background-color: #fff;
+    color: #1C073E;
+    margin-right: 1em;
+  }
+  
+.hero .talk-btn {
+    background-color: #1C073E;
+    color: #fff;
+  }
+  
+.hero .illustration {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+  }
+  
+.hero .illustration svg {
+    position: relative;
+    right: 0;
+    width: 100%;
+    height: 35rem;
+  }
+  
